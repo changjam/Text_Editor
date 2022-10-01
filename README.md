@@ -1,7 +1,7 @@
 # Text_Editor(文字編輯器)
 - 利用16個Pattern與物件導向的概念實做出的文字編輯器，撰寫語言為Java。
 - Pattern參考了GoF的Design Pattern。
-
+![img](https://github.com/changjam/IMG/blob/master/Text_Editor_1.png)
 ## 功能
 - 使用者可以輸入文字，且可以更換文字的顏色、背景顏色、字形以及字體大小。
 - 可以更換文字的排版，置中、左、右。
