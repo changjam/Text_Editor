@@ -10,7 +10,7 @@
 - 系統會對英文首字進行大寫。
 
 ## Design Pattens Implemented
-1.Singleton pattern 用來確保我們使用者在使用文字編輯器時只會有同一時間只能有一個編輯器。
+1. Singleton pattern 用來確保我們使用者在使用文字編輯器時只會有同一時間只能有一個編輯器。
 2.Bridge pattern 會在系統開啟時，判斷當前運行環境是Windows還是Mac，根據運行環境改變外觀和執行。
 3.Facade pattern 管理整個系統，分擔了Bridge pattern的工作，使Bridge pattern不會太過龐大。
 4.Mediator pattern 管理編輯器介面結構，例如Menu、Scroll、Menu Item等。
